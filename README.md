@@ -11,7 +11,7 @@ Until few years ago, I was enthusiastic about one particular part of developing.
 I was so drawn to cybersecurity, mainly because I wanted to get the passwords of the IT laboratory, in my school.
 As I said, IT is only a means, at least for me.
  
-In high school, I started  studying web development, especially back-end languages like PHP and MySQL.
+In high school, I started studying web development by myself, especially back-end languages like PHP and MySQL.
 And then I studied a lot of JavaScript and CSS, because I wanted to earn some money developing websites with WordPress.
  
 I did various internships in different companies when I was at high school, where I could observe the mechanisms behind the world of work, and I realized that I did not want a traditional desk job.
@@ -21,7 +21,7 @@ Nobody will take a boy who is not even of age, seriously.
  
 At the same time, I was passionately about studying subjects like literature, psychology and sociology. Moreover, I started writing on a personal blog, that was initially an IT blog.
  
-For a period of time I didn’t really study any developing expect in school, all I actually did was apply my existing skills to elementary tasks such as looping statements or arrays.
+For a period of time I didn’t really study any developing, all I actually did was apply my existing skills to elementary tasks in my school, such as looping statements or arrays.
  
 However, I was trying to develop an App or a Website could change my life. I have long dreamt of me in the start-up world, and I have also tried to make that dream come true.
  
